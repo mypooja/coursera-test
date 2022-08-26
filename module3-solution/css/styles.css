@@ -1,0 +1,60 @@
+#header-nav {
+  background-color: grey;
+  border-radius: 0;
+}
+
+#header-nav button {
+    margin-top: 22px;
+}
+
+.navbar-default {
+  border-color: black;
+}
+
+.navbar {
+  border: 2px solid;
+}
+
+.navbar-brand {
+    height: 76px;
+    padding-top: 0;
+}
+
+.navbar-brand h1 {
+  color: black;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+.navbar-default .navbar-collapse {
+  border-color: grey;
+}
+
+#nav-list {
+    background-color: white;
+    font-size: 20px;
+    line-height: 2;
+}
+
+.nav>li {
+  border: 1px solid black;
+}
+
+#chickentext {
+  background-color: grey;
+  height: 1000px;
+}
+
+#containerdiv {
+  width: 92%;
+}
+
+#containerdiv>h2 {
+  margin-bottom: 30px;
+}
+
+
+
+
